@@ -1,0 +1,12 @@
+# Math Libraries
+numpy
+scipy
+scikit-learn
+
+# Visualization Libraries
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
