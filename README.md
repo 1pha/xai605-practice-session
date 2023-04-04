@@ -14,7 +14,7 @@ Dimensionality Reduction and its Visualization
     - Further works
         - Wrap them into package
         - Calculate total variance from `my_pca`
-- Week 04 (28 Mar, 2023): [[Jupyter](./lab/Lab1.ipynb)]
+- Week 04 (28 Mar, 2023): [[PDF](./assets/Lec2.pdf)]
     - Random Projection before PCA
     - Dimensionality Reduction with labeled data
 - Week 05 (4 Apr, 2023): [[Jupyter](./lab/Lab2.ipynb)]
