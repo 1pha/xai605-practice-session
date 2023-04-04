@@ -10,3 +10,6 @@ seaborn
 # Jupyter
 jupyter
 ipykernel
+
+# For dataset
+keras

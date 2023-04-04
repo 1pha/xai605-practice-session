@@ -1,4 +1,5 @@
 # XAI605 Practice Sessions
+Dimensionality Reduction and its Visualization
 
 ## Lectures
 
@@ -8,9 +9,16 @@
     - PCA
     - MDS
     - Power Iteration
-
-Dimensionality Reduction and its Visualization
-
+- Week 03 (21 Mar, 2023): [[Jupyter](./lab/Lab1.ipynb)]
+    - Power Iteration, SVD, PCA
+    - Further works
+        - Wrap them into package
+        - Calculate total variance from `my_pca`
+- Week 04 (28 Mar, 2023): [[Jupyter](./lab/Lab1.ipynb)]
+    - Random Projection before PCA
+    - Dimensionality Reduction with labeled data
+- Week 05 (4 Apr, 2023): [[Jupyter](./lab/Lab2.ipynb)]
+    - Random Projection before PCA
 
 ## Setup
 ```zsh
